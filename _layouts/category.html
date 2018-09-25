@@ -1,0 +1,24 @@
+---
+layout: default
+---
+
+<h1>{{ page.tag }}</h1>
+
+<div class="row mb-2">
+    {% for post in site.categories[page.tag] %}
+    <div class="col-md-6">
+        <div class="card flex-md-row mb-4 shadow-sm h-md-250">
+            <div class="card-body d-flex flex-column align-items-start">
+                <!-- <strong class="d-inline-block mb-2 text-primary">{{ page.tag }}</strong> -->
+                <h3 class="mb-0">
+                    <a class="text-dark" href="{{post.url}}">{{post.title}}</a>
+                </h3>
+                <p class="card-text mb-auto">{{ post.excerpt }}</p>
+                {%  if post.related_image %}
+                <img class="card-img-right flex-auto d-none d-lg-block" src="{{ post.related_image }}" width="200px" height="250px">
+                {% endif %}
+            </div>
+        </div>
+    </div>
+    {% endfor %}
+</div>
