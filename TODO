@@ -4,3 +4,7 @@ citations on all posts
 images for HER2 article
 pagination
 second article
+
+remove height on card flex-md-row (media query, main.css)
+img, removed height 100% css and attribute with fixed px height
+test responsiveness
