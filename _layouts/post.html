@@ -10,9 +10,9 @@ layout: default
       <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name">{{ page.author }} </span></span>
       {%- endif -%}
       {%- if page.print_publication -%}
-      &bull; Published in issue &num;{{ page.tags.first | split: "issue" }}
+      &bull; Published in issue &num;{{ page.tags.first | split: "issue" }} &bull; 
       {%- endif -%}
-      &bull; {{ content | number_of_words | divided_by: 265 }} min read
+      {{ content | number_of_words | divided_by: 265 }} min read
       </p>
   </header>
 
