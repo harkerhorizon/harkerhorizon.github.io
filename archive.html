@@ -1,0 +1,12 @@
+---
+layout: text
+title: "Archives"
+---
+
+<ul>
+    {% for post in site.posts %}
+    {% unless post.tags.first == "guidelines" %}
+    <li><a href="{{post.url | relative_url }}">{{post.title}}</a>: {{post.excerpt}}</li>
+    {% endunless %}
+    {% endfor %}
+</ul>
