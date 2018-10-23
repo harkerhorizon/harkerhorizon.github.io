@@ -14,3 +14,11 @@ We invite the submission of articles (technical reports on your own experiments)
 - [Guidelines for Perspectives]({% post_url 2016-02-18-guidelines-for-perspectives %})
 - [Guidelines for Briefs]({% post_url 2016-02-18-guidelines-for-briefs %})
 - [Guidelines for Articles]({% post_url 2016-02-18-guidelines-for-articles %})
+
+**New Accepted Formats**
+
+- [Guidelines for Debate]({% post_url 2018-10-23-guidelines-for-debate %})
+- [Guidelines for Short Research Papers]({% post_url 2018-10-23-guidelines-for-short-paper %})
+- [Guidelines for Social Issues & Ethics]({% post_url 2018-10-23-guidelines-for-social-issues %})
+- [Guidelines for Review Article]({% post_url 2018-10-23-guidelines-for-review-articles %})
+- [Guidelines for Infographics]({% post_url 2018-10-23-guidelines-for-infographic %})
