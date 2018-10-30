@@ -6,7 +6,12 @@ permalink: /submit/
 
 Horizon, Harker’s student-run science research journal, is now accepting submissions for online publication. Students who submitted papers to the Regeneron and Siemens competitions are encouraged to submit to Horizon as are students who have written papers not for competition.
 
-Note: Please make sure you have the necessary rights and permissions from your professors/research mentors before submitting a paper to Horizon, and please send your submission to <a href="mailto:{{site.email | escape }}">{{site.email | escape }}</a> .
+Notes for submitting:
+- Please make sure you have the necessary rights and permissions from your professors/research mentors before submitting a paper to Horizon.
+- Review the guidelines below.
+- Email your submission as an attachment to <a href="mailto:{{site.email | escape }}">{{site.email | escape }}</a>.
+- Include the scientific field and the type of article in a descriptive email subject, e.g. “Astrophysics Perspective Submission”
+- Attach any images in your article as individual, high-resolution files
 
 We invite the submission of articles (technical reports on your own experiments), perspectives (non-technical reports with commentary on trends in modern science), and briefs (non-technical executive summaries of your own experiments).
 
