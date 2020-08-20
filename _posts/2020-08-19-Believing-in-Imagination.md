@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "Believing in"
+title: "Believing in Imagination"
 author: "Jin Tuan (‘20)"
 print_publication: true
 tags: issue3
