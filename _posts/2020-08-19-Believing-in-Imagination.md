@@ -14,8 +14,8 @@ related_image: /imgs/believing-in-imagination.png
 
 | ![](/imgs/believing-in-imagination.png) | 
 |:--:| 
-|Children play pretend and make believe in the dirt. After a certain age, rarely do we play pretend — but role-playing and other
-imaginative practices can hold value for adults, too. (Image: Cade Martin, CDC Public Health Image Library, provided by Dawn Arlotta)|
+|Children play pretend and make believe in the dirt. After a certain age, rarely do we play pretend — but role-playing and other imaginative practices can hold value for adults, too.
+(Image: Cade Martin, CDC Public Health Image Library, provided by Dawn Arlotta)|
 
 Almost every child makes believe, but after a certain age, rarely do we play pretend. Imaginary worlds are relegated to pages and screens, theaters and niche role-playing communities. Daydreaming is discouraged. While physical exercise seems to be an obvious part of a healthy routine, time for imagination, creativity, and mental exercise is often not counted into one’s schedule. But why is it not incorporated more into our everyday lives? 
 
