@@ -8,7 +8,7 @@ categories: Perspectives
 related_image: /imgs/believing-in-imagination.png
 ---
 
-*Imagination subheadline*
+*Although widely viewed as a childish activity, playing pretend as an adult stimulates creativity and encourages socialization.*
 
 <!--excerpt-->
 
