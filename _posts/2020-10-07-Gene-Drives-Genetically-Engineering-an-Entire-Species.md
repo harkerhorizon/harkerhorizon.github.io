@@ -8,6 +8,10 @@ categories: Perspectives
 related_image: /imgs/GeneticallyEngineeringanEntireSpecies.png
 ---
 
+*Gene drives subtitle*
+
+<!--excerpt-->
+
 In 2003, scientists finished sequencing the complete human genome for the very first time. A global scientific endeavor, the closing of the Human Genome Project was a momentous occasion following 13 years of hard work (1990-2003) and nearly $1 billion of expenditures. [1] Today, anyone can have his or her entire genome sequenced for $2000 in a few days, with more expensive high-throughput machinery capable of doing so in just 24 hours. [2] 
 
 Accompanying this exponential increase in sequencing efficiency has been a significant advancement in scientists' ability to read, understand, and, more recently, manipulate DNA. Of course, one can hardly discuss gene editing without mentioning the CRISPR-Cas9 construct, a powerful tool allowing scientists to make relatively precise edits to specific regions of DNA. CRISPR enables scientists to manipulate genetic material with an unprecedented level of accuracy, and it holds the potential to cure all sorts of previously untreatable genetic diseases. 
