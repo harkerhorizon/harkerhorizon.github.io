@@ -40,19 +40,24 @@ While I don't have a particular solution in mind (although an international agre
 
 
 References
+
 [1] An Overview of the Human Genome Project. (2012, November 8). Retrieved from 
      National Human Genome Research Institute website: https://www.genome.gov/ 
      12011239/a-brief-history-of-the-human-genome-project/ 
+     
 [2] Wetterstrand, K. (2018, April 25). DNA Sequencing Costs: Data. Retrieved from 
      National Human Genome Research Institute website: https://www.genome.gov/ 
      27541954/dna-sequencing-costs-data/ 
+     
 [3] Kyrou et al. (2018). A CRISPR–Cas9 gene drive targeting doublesex 
      causes complete population suppression in caged Anopheles gambiae 
      mosquitoes. Nature Biotechnology, 36, 1062-1066. Retrieved from 
      https://www.nature.com/articles/nbt.4245 
+     
 [4] Oye et al. (2014, August 8). Regulating gene drives. Science, 345(6197), 
      626-628. Retrieved from http://science.sciencemag.org/content/345/6197/ 
      626.full 
+     
 [5] Stein, R. (2018, November 26). Chinese Scientist Says He's First To Create 
      Genetically Modified Babies Using CRISPR. Retrieved from National Public 
      Radio website: https://www.npr.org/sections/health-shots/2018/11/26/ 
