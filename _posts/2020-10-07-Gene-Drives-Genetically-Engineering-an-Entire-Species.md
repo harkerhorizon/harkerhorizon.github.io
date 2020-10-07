@@ -8,8 +8,6 @@ categories: Perspectives
 related_image: /imgs/GeneDrives_GeneticallyEngineeringanEntireSpecies.png
 ---
 
-<!--excerpt-->
-
 In 2003, scientists finished sequencing the complete human genome for the very first time. A global scientific endeavor, the closing of the Human Genome Project was a momentous occasion following 13 years of hard work (1990-2003) and nearly $1 billion of expenditures. [1] Today, anyone can have his or her entire genome sequenced for $2000 in a few days, with more expensive high-throughput machinery capable of doing so in just 24 hours. [2] 
 
 Accompanying this exponential increase in sequencing efficiency has been a significant advancement in scientists' ability to read, understand, and, more recently, manipulate DNA. Of course, one can hardly discuss gene editing without mentioning the CRISPR-Cas9 construct, a powerful tool allowing scientists to make relatively precise edits to specific regions of DNA. CRISPR enables scientists to manipulate genetic material with an unprecedented level of accuracy, and it holds the potential to cure all sorts of previously untreatable genetic diseases. 
@@ -21,10 +19,13 @@ A new technology known as gene drives, on the other hand, involves direct manipu
 In this way, the strength of gene drives lies in their ability to propagate through an entire species after introduction in a small percentage of the population (given sufficient generations have passed, of course). Its only real technical limitations are its confinement to sexually reproducing species and vulnerability to mutations which disrupt the transmission of the modification. 
 
 A recent study used this technology in the lab to render a species of mosquitoes infertile and incapable of transmitting malaria. [3] Scientists incorporated a gene drive in the mosquitoes which disrupts the doublesex gene, a gene functioning in sex determination. Males were unaffected, but females carrying two copies of the gene drive began to develop male sexual characteristics and experienced morphological changes in their mouth parts. In other words, female mosquitoes homozygous for the gene drive were unable to bite (and therefore transmit malaria) or reproduce. In this way, heterozygous females spread the gene drive throughout the species while the population gradually drifted towards infertility (since eventually no female mosquitoes will be capable of reproduction). Computer simulations run by the scientists responsible for this work have corroborated the efficacy of the gene drive in the wild, and additional tests have proved that Cas9-resistant mutations were not only rare but also failed to inhibit the spread of the gene drive.
+
+<!--excerpt-->
+
 | ![](/imgs/GeneDrives_GeneticallyEngineeringanEntireSpecies.png) | 
 |:--:| 
 |Figure 1: Mechanism and propagation of a gene drive. (a) Gene drive located on one allele cuts the other allele, leading to its repair by the body using the gene drive as a template. Thus, the gene drive is always inherited. (b) Inheritance of a gene drive in a population. The allele for the modification is always inherited due to the mechanism described in (a), but it may take many generations to fully spread throughout a population depending on reproductive speed and other factors.
-( Esvelt KM, Gemmell NJ (2017) Conservation demands safe gene drive. PLoS Biol 15(11): e2003850. https://doi.org/10.1371/journal.pbio.2003850)|
+(Image: Esvelt KM, Gemmell NJ (2017) Conservation demands safe gene drive. PLoS Biol 15(11): e2003850. https://doi.org/10.1371/journal.pbio.2003850)|
 
 Studies such as this one provide encouraging evidence that scientists are on the right path for creating gene drives which could be used to eliminate disease vectors — perhaps finally putting an end to diseases like malaria — and inoculate populations of crops from disease (allowing farmers to scale down their use of herbicides and pesticides). But, despite its enormous potential, gene drives are at least decades away from implementation in the field due to a range of ethical and broader scientific concerns.
 
