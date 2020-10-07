@@ -5,7 +5,7 @@ author: "Akshay Ravoor (‘19)"
 print_publication: true
 tags: issue3
 categories: Perspectives
-related_image: /imgs/GeneDrives_GeneticallyEngineeringanEntireSpecies.png
+related_image: /imgs/GeneticallyEngineeringanEntireSpecies.png
 ---
 
 In 2003, scientists finished sequencing the complete human genome for the very first time. A global scientific endeavor, the closing of the Human Genome Project was a momentous occasion following 13 years of hard work (1990-2003) and nearly $1 billion of expenditures. [1] Today, anyone can have his or her entire genome sequenced for $2000 in a few days, with more expensive high-throughput machinery capable of doing so in just 24 hours. [2] 
@@ -22,7 +22,7 @@ A recent study used this technology in the lab to render a species of mosquitoes
 
 <!--excerpt-->
 
-| ![](/imgs/GeneDrives_GeneticallyEngineeringanEntireSpecies.png) | 
+| ![](/imgs/GeneticallyEngineeringanEntireSpecies.png) | 
 |:--:| 
 |Figure 1: Mechanism and propagation of a gene drive. (a) Gene drive located on one allele cuts the other allele, leading to its repair by the body using the gene drive as a template. Thus, the gene drive is always inherited. (b) Inheritance of a gene drive in a population. The allele for the modification is always inherited due to the mechanism described in (a), but it may take many generations to fully spread throughout a population depending on reproductive speed and other factors.
 (Image: Esvelt KM, Gemmell NJ (2017) Conservation demands safe gene drive. PLoS Biol 15(11): e2003850. https://doi.org/10.1371/journal.pbio.2003850)|
