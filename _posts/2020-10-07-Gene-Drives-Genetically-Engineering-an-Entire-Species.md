@@ -67,5 +67,5 @@ References
      Genetically Modified Babies Using CRISPR. Retrieved from National Public 
      Radio website: https://www.npr.org/sections/health-shots/2018/11/26/ 
      670752865/chinese-scientist-says-hes-first-to-genetically-edit-babies 
-
+ 
 Image Link: https://journals.plos.org/plosbiology/article/figure?id=10.1371/journal.pbio.2003850.g001
