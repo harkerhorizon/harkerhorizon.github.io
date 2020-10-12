@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "Interview: Dr. Attul Butte"
+title: "Interview: Dr. Atul Butte"
 categories: Other
 issue_number: 2
 tags: issue2
