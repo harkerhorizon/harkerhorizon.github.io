@@ -8,8 +8,6 @@ categories: Perspectives
 related_image: /imgs/simulated-camera-grid.png, /imgs/robot.png
 ---
 
-*Novel advancement in robotics aim to allow robots to learn new tasks without running real trials.*
-
 <!--excerpt-->
 When first learning to program, students might think of programs as a sequence of instructions to solve a problem. This mindset is useful when one is dealing with a computer and some self-contained data but is perhaps not as instructive when it comes to the field of robotics. Robot software must play the role of a brain, taking in sensory data, processing it to make decisions, and interacting with the real world using actuators (e.g. motors). The recent surge in machine learning has made the brain metaphor even more appealing as new algorithms can learn iteratively from a robot’s attempt to accomplish a task. However, some current approaches require teams of robots to all simultaneously collect trials. An algorithm published last year called domain randomization deals with this problem and shows how a robot might successfully execute a task in the real world having only been trained in a simulation.
 
