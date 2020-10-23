@@ -5,7 +5,7 @@ author: "Ashwin Reddy (’19)"
 print_publication: true
 tags: issue3
 categories: Perspectives
-related_image: /imgs/simulated-camera-grid.png, /imgs/robot.png
+related_image: /imgs/robot.png
 ---
 
 <!--excerpt-->
