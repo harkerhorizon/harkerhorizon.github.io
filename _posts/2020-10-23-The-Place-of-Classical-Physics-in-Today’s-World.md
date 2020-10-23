@@ -5,7 +5,7 @@ author: "Kaushik Shivakumar (’20)"
 print_publication: true
 tags: issue3
 categories: Perspectives
-related_image: /imgs/pet_mri.png, /imgs/pasta.png, /imgs/vacuum.png, /imgs/plane_wing.png
+related_image: /imgs/pet_mri.png
 ---
 
 *At a time when so much hype surrounds advances in modern physics, it is important to recognize how much potential the physics we learn in school still has.*
