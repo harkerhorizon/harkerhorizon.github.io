@@ -1,4 +1,0 @@
----
-tag: "Other"
-layout: "category"
----
