@@ -1,7 +1,7 @@
 ---
 layout: "post"
 title: "The History of the Universe: A Gamma-ray Perspective"
-author: "Cindy (’19)"
+author: "Cindy Wang (’19)"
 print_publication: true
 tags: issue3
 categories: Perspectives
