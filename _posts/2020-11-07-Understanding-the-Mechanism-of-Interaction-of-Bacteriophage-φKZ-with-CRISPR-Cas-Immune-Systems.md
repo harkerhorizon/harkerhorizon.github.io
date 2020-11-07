@@ -38,4 +38,4 @@ A thousand-fold decrease in titer value of bacteriophage φKZ was observed after
 | ![](/imgs/systems1.png) | 
 |:--:| 
 |**Figure 1.** A thousand-fold decrease in titer value of bacteriophage φKZ was observed before and after forty-eight hours of hydroxylamine mutagenesis. This supports the efficiency of mutagenesis as it has a large decimating effect on a proportion of the phages. The resulting phages have either been unharmed by the mutagenic process or simply mutated (yet still resistant to targeting).
-(Image: M. DePoint, University of Minnesota)|
+
