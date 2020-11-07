@@ -12,6 +12,10 @@ related_image:
 
 <!--excerpt-->
 
+In January 2018, Helen Bronte-Stewart’s neurology lab at Stanford published a paper in Movement Disorders detailing an experiment that monitored the effectiveness of coordinated reset vibrotactile stimulation, electrical impulses meant to “reset” neuron bodies, for Parkinson’s patients as shown in the image below. More specifically, the researchers sought to alleviate a Parkinsonian symptom known as freezing of gait where a patient suddenly feels as if “their feet are ‘stuck to the floor as if held by magnets,’” leaving them thus unable to move (Weiss, 2020). 
+
+<!--excerpt-->
+
 | ![](/imgs/believing-in-imagination.png) | 
 |:--:| 
 |Children play pretend and make believe in the dirt. After a certain age, rarely do we play pretend — but role-playing and other imaginative practices can hold value for adults, too.
