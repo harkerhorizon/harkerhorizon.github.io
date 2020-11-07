@@ -49,3 +49,20 @@ DNA from seven wild-type φKZ Cas13 escapers and seven mutant φKZ Cas13a escape
 |:--:| 
 |**Figure 2.** “u” stands for wild-type escapers while “e” stands for the mutagenized escaper phages. In the first group of escapers, the PCR shows the targeted region of the gene (protospacer region), one that no longer exists due to the mutation. The final group of escapers shows a larger section of the DNA. The DNA of the pure φKZ is higher above the rest of the escapers. This shows that there is a larger portion of DNA that remains with the φKZ compared to the escapers which have undergone a deletion (and thus travel further through the PCR gel).
 
+**Conclusions/Discussion**
+
+None of the mutant phages were sensitive to DNA-targeting CRISPR-Cas9 system due to the mutations or deletions likely not occurring in the region in the gene(s) that confer resistance to Cas9 targeting. Since it is known that bacteriophage φKZ occludes the Cas9 enzyme by forming a nucleus-like shell, the hydroxylamine mutagenesis most likely did not result in a weakened shell to allow for DNA cleavage by Cas9. However, in respect to the temperature mutants, inhibition of replication of four mutant phages at a higher temperature suggests that phages were isolated with conditionally lethal mutations in essential genes. 
+An increase in frequency of escapers from RNA-targeting enzyme Cas13a upon treatment of bacteriophage φKZ with hydroxylamine shows that hydroxylamine is effective in causing DNA mutations in the gene gp146. However, sequencing results from mutated φKZ escapers of the Cas13a enzyme indicate that the point mutations induced by hydroxylamine are not causing the escaper behavior, but instead, escaper behavior is caused by a deletion of an entire region of the DNA sequence at the gene gp146, possibly created by a genetic mutation. Additionally, the wild-type and the mutagenized escapers both have deletions in the region surrounding the protospacer which indicates that without the protospacer region, the RNA-targeting Cas13a enzyme can no longer target the bacteriophage φKZ. This reveals insight into the specificity of the CRISPR systems.
+It is interesting to note the bacteriophage’s ability to escape the Cas13a system, as it targets RNA, an essential part of the phage DNA’s replication system that is not protected by the protein shell. This phenomenon reveals insights into how so much about CRISPR is unknown. This project marks an important discovery in the gene-editing of CRISPR-Cas13a and the first instance of gene-editing with RNA-targeting.
+While this project was limited by the manual labor aspect of picking individual plaques, there are methods such as replica plating with a piece of velvet used to transfer phages from one petri dish to the next that could increase the likelihood of finding an escaper with weakened protein shells to allow for the entry of Cas9 enzymes.
+
+**References**
+
+Mendoza, S.D., Nieweglowska, E.S., Govindarajan, S. et al. A bacteriophage nucleus-like compartment shields DNA from CRISPR nucleases. Nature (2019) doi:10.1038/s41586-019-1786-y
+R. Villafane (2009); Construction of Phage Mutants; Methods in molecular biology (Clifton, N.J.); 501, 223-37. 
+Chaikeeratisak V, Nguyen K, Egan ME, Erb ML, Vavilina A, Pogliano J(2017); “The Phage Nucleus and Tubulin Spindle Are Conserved among Large Pseudomonas Phages”; doi:10.1016/j.celrep.2017.07.064 
+Crisprs/Cas9 May Provide New Method for Drug Discovery and Development - Scientific Figure on ResearchGate. Available from: https://www.researchgate.net/figure/Three-different-Types-of-CRISPR-Cas-system-the-CRISPR-Cas-systems-have-been-classified_fig3_303344270 [accessed 3 Mar, 2019]
+Chylinski K, Makarova KS, Charpentier E, Koonin EV. Classification and evolution of type II CRISPR-Cas systems. Nucleic Acids Res. 2014;42(10):6091-105.
+
+<!--excerpt-->
+
