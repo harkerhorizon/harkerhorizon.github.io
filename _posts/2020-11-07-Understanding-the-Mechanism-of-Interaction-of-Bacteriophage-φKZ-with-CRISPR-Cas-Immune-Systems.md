@@ -8,7 +8,10 @@ categories: Perspectives
 related_image: 
 ---
 
-*New technology explores the prediction of the freezing of gait to improve lives.*
+*Abstract:
+Bacteriophage φKZ is resistant to the DNA-targeting CRISPR-Cas9 system. Hydroxylamine mutagenesis of φKZ did not result in the weakening of the nucleus-like shell that surrounds the DNA of the bacteriophage φKZ and thus, enabled the bacteriophage φKZ to physically obstruct the Cas9 enzyme. Mutants with this desired phenotype may exist in the pool of mutant phages but were not isolated in the panel that was screened. 
+The DNA sequence that contains the protospacer region of the gene gp146 of the bacteriophage φKZ is targeted by Cas13a enzyme. Without the protospacer region in the DNA to be transcribed to RNA, bacteriophage φKZ is no longer sensitive to RNA-targeting Cas13a enzyme.
+*
 
 <!--excerpt-->
 
