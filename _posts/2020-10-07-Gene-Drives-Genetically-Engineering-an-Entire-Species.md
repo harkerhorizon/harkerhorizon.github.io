@@ -8,7 +8,7 @@ categories: Perspectives
 related_image: /imgs/GeneticallyEngineeringanEntireSpecies.png
 ---
 
-*Gene drives subtitle*
+*A closer look at the double-edged sword that gene drives present*
 
 <!--excerpt-->
 
