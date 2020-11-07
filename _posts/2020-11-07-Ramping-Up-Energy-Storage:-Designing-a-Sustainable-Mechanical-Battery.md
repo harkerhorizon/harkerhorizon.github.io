@@ -37,12 +37,8 @@ The energy stored in the battery is given by the gravitational potential energy,
 |**Figure 2.** The free body diagram offers visualizations of all the force vectors acting on the cart during its descent.
 
 To assess how pragmatic our mechanical battery is, we measure and evaluate different efficiencies (Spenner). In the equations, E represents energy and W, work. 
-Energy storage efficiency, energy storage, is given by 
-                                                        energy storage=EstoredWInput .                                                (3)  
-        
-Energy release efficiency, energy release, is given by 
-
-                                                        energy release=WOutputEstored .                                               (4)          
+Energy storage efficiency, energy storage, is given by energy storage=EstoredWInput .                                                (3) Energy release efficiency, energy release, is given by 
+energy release=WOutputEstored .                                               (4)          
 
 Overall efficiency, overall , is given by 
                                                         overall =WOutputWInput .                                                      (5)         
