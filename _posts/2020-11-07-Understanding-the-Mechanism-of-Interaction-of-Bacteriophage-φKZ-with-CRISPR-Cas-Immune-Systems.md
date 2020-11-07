@@ -10,7 +10,10 @@ related_image:
 
 <!--excerpt-->
 
-In January 2018, Helen Bronte-Stewart’s neurology lab at Stanford published a paper in Movement Disorders detailing an experiment that monitored the effectiveness of coordinated reset vibrotactile stimulation, electrical impulses meant to “reset” neuron bodies, for Parkinson’s patients as shown in the image below. More specifically, the researchers sought to alleviate a Parkinsonian symptom known as freezing of gait where a patient suddenly feels as if “their feet are ‘stuck to the floor as if held by magnets,’” leaving them thus unable to move (Weiss, 2020). 
+Abstract:
+Bacteriophage φKZ is resistant to the DNA-targeting CRISPR-Cas9 system. Hydroxylamine mutagenesis of φKZ did not result in the weakening of the nucleus-like shell that surrounds the DNA of the bacteriophage φKZ and thus, enabled the bacteriophage φKZ to physically obstruct the Cas9 enzyme. Mutants with this desired phenotype may exist in the pool of mutant phages but were not isolated in the panel that was screened. 
+The DNA sequence that contains the protospacer region of the gene gp146 of the bacteriophage φKZ is targeted by Cas13a enzyme. Without the protospacer region in the DNA to be transcribed to RNA, bacteriophage φKZ is no longer sensitive to RNA-targeting Cas13a enzyme.
+
 
 <!--excerpt-->
 
