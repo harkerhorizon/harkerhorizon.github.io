@@ -5,7 +5,7 @@ author: "Simar Bajaj (‘20)"
 print_publication: true
 tags: issue3
 categories: Perspectives
-related_image: 
+related_image: /imgs/parkinsoniangait1.png
 ---
 
 *New technology explores the prediction of the freezing of gait to improve lives*
