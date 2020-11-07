@@ -22,3 +22,11 @@ Aristotle observed, “The energy of the mind is the essence of life.” While h
                                                                        W=Fd,                                                             (1) where F is the constant force required to push up or bring down the object and Δd is the length of the incline. The force will be applied parallel to d so that we can easily calculate work, as we are using a spring balance to push the object. Figure 1 offers a visualization of the input force, denoted by Fp (p for push).
 
 <!--excerpt-->
+
+| ![](/imgs/battery1.png) | 
+|:--:| 
+|**Figure 1.** The free body diagram offers visualizations of all the force vectors acting on the cart during its ascent.
+
+The energy stored in the battery is given by the gravitational potential energy, U, at the top of the ramp,                                                                         
+					          U=mgh,                                                          (2) where m is mass, g is the acceleration due to gravitational force, and h is the vertical height of the center of mass of the cart above the bottom of the ramp. 
+	Finally, the usable energy after storage is the output work when the object falls down the incline. To measure the output work, we let the object fall down the incline at a constant speed, preventing it from accelerating due to gravity by holding the spring balance against the direction of the cart’s descending motion. We can use equation (1) to measure this output work with output force. Figure 2 offers a visualization of the output force, denoted by Fo. 
