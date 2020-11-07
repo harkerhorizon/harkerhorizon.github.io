@@ -45,4 +45,12 @@ The future of this technology is largely based on predicting the freezing of gai
 
 <!--excerpt-->
 
+References 
 
+Weiss, H. (2020, March 23). Dr. Howard Weiss Discusses "Freezing of Gait" in Parkinson Disease. Retrieved October 03, 2020, from http://parkinsonfoundation.org/blog/dr-howard-weiss-discusses-freezing-gait-parkinson-disease
+DePoint, M. (2014, April 2). U of M researchers monitor gait initiation via high-speed cameras and electronic sensors. Retrieved from https://www.healthtalk.umn.edu/2014/04/02/u-m-researchers-study-freezing-gait-people-parkinsons-dise ase/
+Parkinson's Disease Information Page. (n.d.). Retrieved October 03, 2020, from https://www.ninds.nih.gov/Disorders/All-Disorders/Parkinsons-Disease-Information-Page
+Parkinson's & Movement Disorders. (2020, July 15). Retrieved October 03, 2020, from https://www.froedtert.com/parkinsons-movement-disorders
+Team, E. (2017, March 8). Diagnosis – Rating Scales. Retrieved October 03, 2020, from https://parkinsonsdisease.net/diagnosis/rating-scales-staging/
+Syrkin-Nikolau, J., Neuville, R., O'day, J., Anidi, C., Koop, M. M., Martin, T., . . . Bronte-Stewart, H. (2017). Coordinated reset vibrotactile stimulation shows prolonged improvement in Parkinson's disease. Movement Disorders, 33(1), 179-180. doi:10.1002/mds.27223
+Syrkin‐Nikolau, J. (2018). Coordinated reset vibrotactile stimulation shows prolonged improvement in Parkinson's disease. Wiley Movement Disorders. doi:10.1002/mds.27223
