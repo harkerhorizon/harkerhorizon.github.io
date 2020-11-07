@@ -27,3 +27,7 @@ While there is currently no cure for this disease, drugs like levodopa, which is
 
 <!--excerpt-->
 
+| ![](/imgs/parkinsoniangait2.png) | 
+|:--:| 
+|Parkinson’s Disease Infographic
+(Image: Froedtert, Froedtert and Medical College of Wisconsin)|
