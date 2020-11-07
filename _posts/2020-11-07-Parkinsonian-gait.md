@@ -5,10 +5,10 @@ author: "Simar Bajaj (‘20)"
 print_publication: true
 tags: issue3
 categories: Perspectives
-related_image: /imgs/believing-in-imagination.png
+related_image: 
 ---
 
-*Although widely viewed as a childish activity, playing pretend as an adult stimulates creativity and encourages socialization.*
+*New technology explores the prediction of the freezing of gait to improve lives*
 
 <!--excerpt-->
 
