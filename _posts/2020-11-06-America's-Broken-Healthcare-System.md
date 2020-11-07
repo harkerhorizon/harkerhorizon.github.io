@@ -48,14 +48,17 @@ In Less Medicine, More Health, Professor Welch at Dartmouth compares cancers to 
 In its current state, the US healthcare system is, unfortunately, a disease care system. Interventionist medicine supersedes preventive medicine so that symptoms remain under control while the underlying cause is hardly ever addressed. Unnecessary care harms patients and skyrockets healthcare costs, which, in a significant part, must be paid by the American taxpayer. Only when society as a whole begins to reward preventive medicine and improving outcomes over doing more simply for the sake of doing more can we truly reform healthcare. This goal will require a revolutionizing of US government priorities when it comes to healthcare. This goal will require a revolutionizing of medical schools to emphasize prevention over intervention. This goal will require a revolutionizing of patient expectations when going to the doctor’s office as patients will need to be empowered to take their health back into their own hands. Together, we can work to mend the broken US healthcare system.
 
 References 
+
 American health care: Health spending and the federal budget. (2018, May 16). Retrieved June 27, 2019, from Committee for a Responsible Federal Budget website: 
-https://www.crfb.org/papers/american-health-care-health-spending-and-federal-budget Escape fire: The fight to rescue american healthcare [Video file]. (2012). Retrieved from https://tubitv.com/movies/300834/escape_fire_the_fight_to_rescue_american_healthcare?autoplay=true &utm_source=google-feed&tracking=google-feed 
+https://www.crfb.org/papers/american-health-care-health-spending-and-federal-budget 
+Escape fire: The fight to rescue american healthcare [Video file]. (2012). Retrieved from https://tubitv.com/movies/300834/escape_fire_the_fight_to_rescue_american_healthcare?autoplay=true &utm_source=google-feed&tracking=google-feed 
 Fullman, N., Yearwood, J., Abay, S., & Abbafati, C. (2018). Measuring performance on the healthcare access and quality index for 195 countries and territories and selected subnational locations: A systematic analysis from the global burden of disease study 2016. The Lancet, 391(10136), 2236-2271. Retrieved from https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(18)30994-2/fulltext 
 Gawande, A. (2015, May 4). Overkill. Retrieved June 27, 2019, from The New Yorker website: https://www.newyorker.com/magazine/2015/05/11/overkill-atul-gawande 
 New yorker: "Overkill" [Image]. (n.d.). Retrieved from 
 https://occtegrity.com/the-collateral-damage-of-unnecessary-medical-care/ 
 O'Donoghue, G. (n.d.). [Our Healthcare System has a Finite Number of Workers]. 
 Pendick, D. (n.d.). Most headache-related brain scans aren't needed. Retrieved June 27, 2019, from Harvard Health Publishing website: 
-https://www.health.harvard.edu/blog/headache-related-brain-scans-arent-needed-201403197080 Shortage of primary care physicians [Image]. (n.d.). Retrieved from 
+https://www.health.harvard.edu/blog/headache-related-brain-scans-arent-needed-201403197080 
+Shortage of primary care physicians [Image]. (n.d.). Retrieved from 
 https://theleadingphysiciansoftheworldblog.wordpress.com/2017/03/22/infographic-shortage-of-primary -care-physicians/
 
