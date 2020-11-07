@@ -8,7 +8,7 @@ categories: Perspectives
 related_image: /imgs/parkinsoniangait1.png
 ---
 
-*New technology explores the prediction of the freezing of gait to improve lives*
+*New technology explores the prediction of the freezing of gait to improve lives.*
 
 <!--excerpt-->
 
@@ -16,9 +16,9 @@ In January 2018, Helen Bronte-Stewart’s neurology lab at Stanford published a 
 
 <!--excerpt-->
 
-| ![](/imgs/believing-in-imagination.png) | 
+| ![](/imgs/parkinsoniangait1.png) | 
 |:--:| 
-|Children play pretend and make believe in the dirt. After a certain age, rarely do we play pretend — but role-playing and other imaginative practices can hold value for adults, too.
+|Gait Monitoring of Coordinated Reset Vibrotactile Stimulation for Parkinsonian
 (Image: Cade Martin, CDC Public Health Image Library, provided by Dawn Arlotta)|
 
 Content:
