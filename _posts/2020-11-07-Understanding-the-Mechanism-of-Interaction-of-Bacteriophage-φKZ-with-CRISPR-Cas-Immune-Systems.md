@@ -34,3 +34,8 @@ For identifying escapers of cas13a RNA-targeting, mutant phages were directly pl
 A thousand-fold decrease in titer value of bacteriophage φKZ was observed after mutagenesis with 0.4 M hydroxylamine for forty-eight hours. This solution of mutated φKZ was used for all subsequent experiments. One-thousand five-hundred-forty mutants from hydroxylamine mutagenesis were screened for both Cas9 and temperature sensitivity. The Cas9 sensitivity was tested by plating each mutant onto bacterial strain SDM065, designed to target the head gene gp146 of φKZ. None of mutants were found to be sensitive to the Cas9 enzyme. 
 
 <!--excerpt-->
+
+| ![](/imgs/systems1.png) | 
+|:--:| 
+|**Figure 1.** A thousand-fold decrease in titer value of bacteriophage φKZ was observed before and after forty-eight hours of hydroxylamine mutagenesis. This supports the efficiency of mutagenesis as it has a large decimating effect on a proportion of the phages. The resulting phages have either been unharmed by the mutagenic process or simply mutated (yet still resistant to targeting).
+(Image: M. DePoint, University of Minnesota)|
