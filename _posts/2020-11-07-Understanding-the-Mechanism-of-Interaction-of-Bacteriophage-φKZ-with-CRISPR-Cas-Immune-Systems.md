@@ -8,8 +8,6 @@ categories: Perspectives
 related_image: 
 ---
 
-**
-
 <!--excerpt-->
 
 In January 2018, Helen Bronte-Stewart’s neurology lab at Stanford published a paper in Movement Disorders detailing an experiment that monitored the effectiveness of coordinated reset vibrotactile stimulation, electrical impulses meant to “reset” neuron bodies, for Parkinson’s patients as shown in the image below. More specifically, the researchers sought to alleviate a Parkinsonian symptom known as freezing of gait where a patient suddenly feels as if “their feet are ‘stuck to the floor as if held by magnets,’” leaving them thus unable to move (Weiss, 2020). 
