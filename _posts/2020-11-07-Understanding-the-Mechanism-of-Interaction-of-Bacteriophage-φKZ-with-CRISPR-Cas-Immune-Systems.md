@@ -1,11 +1,11 @@
 ---
 layout: "post"
-title: "Parkinsonian gait"
-author: "Simar Bajaj (‘20)"
+title: "Understanding the Mechanism of Interaction of Bacteriophage φKZ with CRISPR-Cas Immune Systems"
+author: "Anika Tiwari (‘20)"
 print_publication: true
 tags: issue3
 categories: Perspectives
-related_image: /imgs/parkinsoniangait1.png
+related_image: 
 ---
 
 *New technology explores the prediction of the freezing of gait to improve lives.*
