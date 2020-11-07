@@ -39,3 +39,13 @@ A thousand-fold decrease in titer value of bacteriophage φKZ was observed after
 |:--:| 
 |**Figure 1.** A thousand-fold decrease in titer value of bacteriophage φKZ was observed before and after forty-eight hours of hydroxylamine mutagenesis. This supports the efficiency of mutagenesis as it has a large decimating effect on a proportion of the phages. The resulting phages have either been unharmed by the mutagenic process or simply mutated (yet still resistant to targeting).
 
+Four temperature sensitive mutants were found upon incubation of mutant phages plated onto PA01 (Pseudomonas aeruginosa strain used) at 42°C. Temperature sensitive mutants failed to grow on PA01 at the higher temperature of 42°C. The mutations inhibit the phage replication at higher temperatures, yet the genetic position of the causal mutations is not yet known. No temperature sensitive mutants were Cas9 sensitive as well, indicating that the mutation that is triggered by temperature is not relevant to the protein shell that forms around φKZ DNA. 
+Escapers of RNA-targeting Cas13a were isolated by plating the mutated and the untreated (wild-type) φKZ phage on bacterial strain SDM078, which was designed with the CRISPR-Cas13a system targeting the head gene gp146 of φKZ. The frequency of escaping the RNA-targeting Cas13a enzyme for wild-type φKZ was determined to be around 0.024 in 106 and around 8 in 106 for the hydroxylamine mutagenized φKZ. The rate of Cas13a escapers was increased to three hundred-fold upon hydroxylamine mutagenesis. 
+DNA from seven wild-type φKZ Cas13 escapers and seven mutant φKZ Cas13a escapers from the bacterial strain SDM078 was amplified using PCR. DNA of two wild-type escapers and one mutant escaper was subsequently sequenced. The other 4 wild-type escapers and 6 mutant escapers appeared to have deletions similar to the to-be-sequenced escapers upon PCR amplification. Results of the sequencing indicate that the SDM078 escapers contained various sized deletions that were 399-1026 base pairs long. The deletions always included the protospacer region of the head gene gp146 of the bacteriophage φKZ. 
+
+<!--excerpt-->
+
+| ![](/imgs/systems2.png) | 
+|:--:| 
+|**Figure 2.** “u” stands for wild-type escapers while “e” stands for the mutagenized escaper phages. In the first group of escapers, the PCR shows the targeted region of the gene (protospacer region), one that no longer exists due to the mutation. The final group of escapers shows a larger section of the DNA. The DNA of the pure φKZ is higher above the rest of the escapers. This shows that there is a larger portion of DNA that remains with the φKZ compared to the escapers which have undergone a deletion (and thus travel further through the PCR gel).
+
