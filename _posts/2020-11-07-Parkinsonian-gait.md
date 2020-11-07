@@ -31,3 +31,18 @@ While there is currently no cure for this disease, drugs like levodopa, which is
 |:--:| 
 |Parkinson’s Disease Infographic
 (Image: Froedtert, Froedtert and Medical College of Wisconsin)|
+
+The basis of their work is the use of peripheral vibrotactile coordinate reset stimulation (PVCRS), which works by using electrical stimulation through the peripheral nervous system to reset populations of neurons, ending any aberrant neuronal synchrony. Using a turning and barrier course which elicits freezing episodes a third of the time, these researchers tested how five Parkinson’s patients would respond. In order to measure the results of this experiment, they used “a blinded rating of the Unified Parkinson’s Disease Rating Scale (motor, UPDRS III), quantitative measures of forward walking using 9-axis inertial measurement units (APDM Inc.), and the kinematics of repetitive wrist flexion-extension (rWFE) using solid-state gyroscopes (Motus Bioengineering)” according to Syrkin-Nikolau et al. (2018). The Unified Parkinson’s Disease Rating Scale was used to determine the severity of the patient’s Parkinson’s by having a neurologist assign a rating from zero to four based on the patient’s motor movements (Team, Diagnosis – Rating Scales 2017). The inertial measurement units were attached like a Fitbit might be and measured the patient’s gait and balance so that researchers could reliably determine episodes of freezing. The solid-state gyroscopes were attached to the patient’s hand and used to measure the angular velocity of the wrist flexion-extension in order to measure wrist bradykinesia. After doing some experimenting, the Bronte-Stewart lab determined that three days of peripheral vibrotactile coordinate reset stimulation was tolerable and resulted in an increase of repetitive wrist flexion-extension, which corresponds to reduced bradykinesia, along with an acute reduction of arrhythmicity and asymmetry as shown in the image below. In the long term, there was also a general reduction of asymmetry and an increase in repetitive wrist flexion-extension. The experiment, in short, was a definite step forward towards using PVCRS for Parkinson’s treatment. 
+
+<!--excerpt-->
+
+| ![](/imgs/parkinsoniangait3.png) | 
+|:--:| 
+|Data of Acute Effects of PVCRS (A-C) and of Long-Term Effects of PVCRS (D-F)
+(Image: Syrkin-Nikolau, et al., Wiley Movement Disorders)|
+
+The future of this technology is largely based on predicting the freezing of gait before it even happens to help Parkinson’s patients avoid FOG altogether. Implanted units like the Activa PC+S from Medtronic, a type of deep brain stimulation, was what Johanna O’Day, one of the authors on the paper, suggested may be used. These units relay kinematic and neural data to the patient’s neurologist, hence their nickname “brain radio,” and deliver electrical stimulation in real time. The goal is that these units can one day adjust the voltage and frequency of the electrical stimulation at any time based on the patient’s specific movements. This, in turn, will drastically reduce Parkinsonian symptoms like FOG among other symptoms potentially. In this way, the Bronte-Stewart lab’s work seeks to improve the lives of millions of patients around the world living with Parkinson’s.
+
+<!--excerpt-->
+
+
