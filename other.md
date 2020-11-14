@@ -1,4 +1,4 @@
 ---
-tag: "others"
+tag: "Other"
 layout: "category"
 ---
