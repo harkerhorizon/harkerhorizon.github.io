@@ -1,4 +1,4 @@
 ---
-tag: "Science News"
+tag: "News"
 layout: "category"
 ---
