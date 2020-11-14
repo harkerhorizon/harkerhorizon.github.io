@@ -1,4 +1,4 @@
 ---
-tag: "News"
+tag: "news"
 layout: "category"
 ---
