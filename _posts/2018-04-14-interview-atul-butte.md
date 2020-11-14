@@ -1,7 +1,7 @@
 ---
 layout: "post"
 title: "Interview: Dr. Atul Butte"
-categories: Other
+categories: "Science News"
 issue_number: 2
 tags: issue2
 print_publication: true

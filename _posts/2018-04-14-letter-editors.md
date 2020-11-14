@@ -1,7 +1,7 @@
 ---
 layout: "post"
 title: "Letter from the Editors 2018"
-categories: Other
+categories: "Science News"
 issue_number: 2
 print_publication: true
 tags: ["issue2"]
